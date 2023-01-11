@@ -1,0 +1,33 @@
+,ID,Tournament,Date,Home Team,Home Goals,Away Goals,Away Team,Win Conditions,Home Stadium,Year,Win Bool
+16438,16439,Friendly,2018-05-29,Argentina,4,0,Haiti,,True,2018,1
+16489,16490,Friendly,2018-09-07,Argentina,3,0,Guatemala,,False,2018,1
+16520,16521,Friendly,2018-10-11,Argentina,4,0,Iraq,,False,2018,1
+16555,16556,Superclasico de las Americas,2018-10-16,Argentina,0,1,Brazil,,False,2018,0
+16567,16568,Friendly,2018-11-16,Argentina,2,0,Mexico,,True,2018,1
+16589,16590,Friendly,2018-11-20,Argentina,2,0,Mexico,,True,2018,1
+16648,16649,Friendly,2019-03-22,Argentina,1,3,Venezuela,,False,2019,0
+16699,16700,Friendly,2019-06-07,Argentina,5,1,Nicaragua,,True,2019,1
+16727,16728,Copa America,2019-06-15,Argentina,0,2,Colombia,,False,2019,0
+16741,16742,Copa America,2019-06-19,Argentina,1,1,Paraguay,,False,2019,0
+16781,16782,Copa America,2019-07-06,Argentina,2,1,Chile,,False,2019,1
+16792,16793,Friendly,2019-09-05,Argentina,0,0,Chile,,False,2019,0
+16824,16825,Friendly,2019-09-10,Argentina,4,0,Mexico,,False,2019,1
+16941,16942,Friendly,2019-11-18,Argentina,2,2,Uruguay,,False,2019,0
+17004,17005,FIFA World Cup qualification,2020-10-08,Argentina,1,0,Ecuador,,True,2020,1
+17055,17056,FIFA World Cup qualification,2020-11-12,Argentina,1,1,Paraguay,,True,2020,0
+17169,17170,FIFA World Cup qualification,2021-06-03,Argentina,1,1,Chile,,True,2021,0
+17226,17227,Copa America,2021-06-14,Argentina,1,1,Chile,,False,2021,0
+17242,17243,Copa America,2021-06-18,Argentina,1,0,Uruguay,,False,2021,1
+17253,17254,Copa America,2021-06-21,Argentina,1,0,Paraguay,,False,2021,1
+17269,17270,Copa America,2021-06-28,Argentina,4,1,Bolivia,,False,2021,1
+17280,17281,Copa America,2021-07-03,Argentina,3,0,Ecuador,,False,2021,1
+17283,17284,Copa America,2021-07-06,Argentina,1,1,Colombia,Argentina win on penalties,False,2021,0
+17391,17392,FIFA World Cup qualification,2021-09-09,Argentina,3,0,Bolivia,,True,2021,1
+17429,17430,FIFA World Cup qualification,2021-10-10,Argentina,3,0,Uruguay,,True,2021,1
+17454,17455,FIFA World Cup qualification,2021-10-14,Argentina,1,0,Peru,,True,2021,1
+17510,17511,FIFA World Cup qualification,2021-11-16,Argentina,0,0,Brazil,,True,2021,0
+17577,17578,FIFA World Cup qualification,2022-02-01,Argentina,1,0,Colombia,,True,2022,1
+17605,17606,FIFA World Cup qualification,2022-03-25,Argentina,3,0,Venezuela,,True,2022,1
+17674,17675,Friendly,2022-06-05,Argentina,5,0,Estonia,,False,2022,1
+17733,17734,Friendly,2022-09-23,Argentina,3,0,Honduras,,False,2022,1
+17754,17755,Friendly,2022-09-27,Argentina,3,0,Jamaica,,False,2022,1

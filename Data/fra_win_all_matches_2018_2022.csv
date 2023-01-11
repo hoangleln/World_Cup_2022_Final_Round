@@ -1,0 +1,32 @@
+,ID,Tournament,Date,Home Team,Home Goals,Away Goals,Away Team,Win Conditions,Home Stadium,Year,Win Bool
+16386,16387,Friendly,2018-03-23,France,2,3,Colombia,,True,2018,0
+16434,16435,Friendly,2018-05-28,France,2,0,Republic of Ireland,,True,2018,1
+16443,16444,Friendly,2018-06-01,France,3,1,Italy,,True,2018,1
+16476,16477,Friendly,2018-06-09,France,1,1,United States,,True,2018,0
+16499,16500,UEFA Nations League,2018-09-09,France,2,1,Netherlands,,True,2018,1
+16521,16522,Friendly,2018-10-11,France,2,2,Iceland,,True,2018,0
+16542,16543,UEFA Nations League,2018-10-16,France,2,1,Germany,,True,2018,1
+16592,16593,Friendly,2018-11-20,France,1,0,Uruguay,,True,2018,1
+16671,16672,UEFA Euro qualification,2019-03-25,France,4,0,Iceland,,True,2019,1
+16686,16687,Friendly,2019-06-02,France,2,0,Bolivia,,True,2019,1
+16813,16814,UEFA Euro qualification,2019-09-07,France,4,1,Albania,,True,2019,1
+16833,16834,UEFA Euro qualification,2019-09-10,France,3,0,Andorra,,True,2019,1
+16882,16883,UEFA Euro qualification,2019-10-14,France,1,1,Turkey,,True,2019,0
+16906,16907,UEFA Euro qualification,2019-11-14,France,2,1,Moldova,,True,2019,1
+16991,16992,UEFA Nations League,2020-09-08,France,4,2,Croatia,,True,2020,1
+16994,16995,Friendly,2020-10-07,France,7,1,Ukraine,,True,2020,1
+17019,17020,UEFA Nations League,2020-10-11,France,0,0,Portugal,,True,2020,0
+17044,17045,Friendly,2020-11-11,France,0,2,Finland,,True,2020,0
+17075,17076,UEFA Nations League,2020-11-17,France,4,2,Sweden,,True,2020,1
+17097,17098,FIFA World Cup qualification,2021-03-24,France,1,1,Ukraine,,True,2021,0
+17160,17161,Friendly,2021-06-02,France,3,0,Wales,,True,2021,1
+17194,17195,Friendly,2021-06-08,France,3,0,Bulgaria,,True,2021,1
+17268,17269,UEFA Euro,2021-06-28,France,3,3,Switzerland,Switzerland win on penalties,False,2021,0
+17321,17322,FIFA World Cup qualification,2021-09-01,France,1,1,Bosnia and Herzegovina,,True,2021,0
+17376,17377,FIFA World Cup qualification,2021-09-07,France,2,0,Finland,,True,2021,1
+17480,17481,FIFA World Cup qualification,2021-11-13,France,8,0,Kazakhstan,,True,2021,1
+17606,17607,Friendly,2022-03-25,France,2,1,Ivory Coast,,True,2022,1
+17636,17637,Friendly,2022-03-29,France,5,0,South Africa,,False,2022,1
+17662,17663,UEFA Nations League,2022-06-03,France,1,2,Denmark,,True,2022,0
+17714,17715,UEFA Nations League,2022-06-13,France,0,1,Croatia,,True,2022,0
+17729,17730,UEFA Nations League,2022-09-22,France,2,0,Austria,,True,2022,1
